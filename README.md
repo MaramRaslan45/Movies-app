@@ -1,3 +1,15 @@
+# Movies Reactjs-based web application
+
+### `Features`
+
+- User can view all movies
+- User can select a movie and see it's details
+- User can search movies
+- User can go to another page of movies
+- User can login and register
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
